@@ -1,19 +1,21 @@
 # School_District_Analysis
 
 ## 1.  **Overview of the school district analysis:** 
-The purpose of this analysis is to take a cross-section of charter & district schools in an area based on a number of factors including spending per student, reading & math scores, total school budget & size. There were 15 schools involved in the analysis and close to 40,000 students. We also had an important instance where we had to rule out 461 9th grader's math and reading scores at Thomas High School (enrollment 1635) and then rerun our data with some of those scored omitted. This led to slight change to that charter school and the overall dataset. 
+The purpose of this analysis is to take a cross-section of charter & district schools in an area based on a number of factors including spending per student, reading & math scores, total school budget & size. There were 15 schools involved in the analysis and close to 40,000 students. We also had an important instance where we had to rule out 461 9th grader's math and reading scores at Thomas High School (enrollment 1635) and then rerun our data with some of those scored omitted. This led to slight change to that charter school and the overall dataset.Please note, all of this scrubbed data was completed in the PyCitySchools_Challenge_2.ipynb file. 
 
 Thomas High School 1st Analysis:
 ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Thomas%20High%20School%20Before%20Analysis.png)
 
 Thomas High School Challenge Analysis (redacted 9th grade):
-![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Thomas%20High%20School%20After%20Analysis.png
+![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Thomas%20High%20School%20After%20Analysis.png)
     
 ## 3.  **Results:**  Using bulleted lists and images of DataFrames as support, address the following questions.
     
     -   How is the district summary affected? The district summary was not signifcantly affected by the removal of 461 student's scores. There are different numbers in the charter row but they are only slightly changed.
 Average Math Score Charter
-`![](``image``.png)`
+![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Charter%20School%20Analysis%20Before.png)
+
+![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Charter%20School%20Analysis%20After.png)
 
 Average Math Score Charter
 `![](``image``.png)`
