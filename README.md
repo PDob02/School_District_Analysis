@@ -23,21 +23,24 @@ Average Math Score Charter
     
 ###### How is the school summary affected?
 
-###### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? The replacement of 461 students in the dataset for Thomas High School was not significant to the overall dataset. It is considered a Charter school and one of the top schools for Overall Passing %. 
+###### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? 
+	The replacement of 461 students in the dataset for Thomas High School was not significant to the overall dataset. It is considered a Charter school and one of the top schools for Overall Passing %. If anything prior to the data being scrubbed the school scored slightly higher in math, reading, and overall but it was not a dramatic difference.
   
 ###### How does replacing the ninth-grade scores affect the following:
-###### Math and reading scores by grade
-###### Scores by school spending: 
-###### School spending was not affected when accounting for rounding. The dollars spent were still spend on the same students and one grade was not enough to change the dataset
+###### Math and reading scores by grade:
+![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Thomas%20High%20School%20After%20Overall.png)
+###### Scores by school spending:
+	School spending was not affected when accounting for rounding. The dollars spent were still spend on the same students and one grade was not enough to change the dataset
 ###### Scores by school Size:
 	Since Thomas High School was a medium sized school with an enrollment in the 1600s the only data that was affected was the minor decimal points as illustrated below. 
 ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/By%20School%20Size%20Before.png)
 ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/By%20School%20Size%20After.png)
-###### Scores by school type
+###### Scores by school type:
+	Though not affected by the Thomas School, the largest gap in the data is the % Overall passing in Charter Schools (90%) vs. District Schools at (54%). 
 
 ## 4.  **Summary:**  Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-		The most significant statistical change to the data lies within the Thomas school data itself. This is where the largest deviation on averages stood, though in most cases it was not statitiscally significant to the untrained eye or average parent. 
+		The most significant statistical change to the data lies within the Thomas school data itself. This is where the largest deviation on averages stood, though in most cases it was not statitiscally significant to the untrained eye or average parent. Their school's reading and math scores dipped slightly as well as their overall passing percentage. Also, all of the data for ninth graders will populate as NaN or "not a number" in reports now since there were some questions brought up by that school's school board. 
 
 ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Thomas%20High%20School%20After%20Overall.png)
-
-![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Thomas%20High%20School%20Before%20Overall.png)
+###### Before Analysis:
+  ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Thomas%20High%20School%20Before%20Overall.png)
