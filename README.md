@@ -13,7 +13,7 @@ Thomas High School Challenge Analysis (redacted 9th grade):
 
 ###### How is the district summary affected? 
 
-The district summary was not significantly affected by the removal of 461 student's scores. There are different numbers in the charter row but they are only slightly changed.
+The district summary was not significantly affected by the removal of 461 student's scores. There are different numbers in the charter row but they are only slightly changed.This is because the average calculation was spread out amongst a large student base. This was a small around ~1% adjustment that had to be made. 
 Average Math Score Charter
 ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Charter%20School%20Analysis%20Before.png)
 ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Charter%20School%20Analysis%20After.png)
@@ -28,6 +28,7 @@ Average Math Score Charter
   
 ###### How does replacing the ninth-grade scores affect the following:
 ###### Math and reading scores by grade:
+This is one of the more significant findings since NaN will show up for 9th graders at Thomas High School
 Reading Scores:
 ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Reading%20Scores%20by%20Grade.png)
 Math Scores:
@@ -42,8 +43,9 @@ Math Scores:
 	Though not affected by the Thomas School, the largest gap in the data is the % Overall passing in Charter Schools (90%) vs. District Schools at (54%). 
 
 ## 4.  **Summary:**  Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-		The most significant statistical change to the data lies within the Thomas school data itself. This is where the largest deviation on averages stood, though in most cases it was not statitiscally significant to the untrained eye or average parent. Their school's reading and math scores dipped slightly as well as their overall passing percentage. Also, all of the data for ninth graders will populate as NaN or "not a number" in reports now since there were some questions brought up by that school's school board. 
+		The most significant statistical change to the data lies within the Thomas school data itself. This is where the largest deviation on averages stood, though in most cases it was not statitiscally significant to the untrained eye or average parent. 
+Their school's reading and math scores dipped slightly as well as their overall passing percentage. Also, all of the data for ninth graders will populate as NaN or "not a number" in reports now since there were some questions brought up by that school's school board. 
 
 ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Thomas%20High%20School%20After%20Overall.png)
 ###### Before Analysis:
-  ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Thomas%20High%20School%20Before%20Overall.png)
+    ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Thomas%20High%20School%20Before%20Overall.png)
