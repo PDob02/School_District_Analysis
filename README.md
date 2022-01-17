@@ -23,16 +23,21 @@ Average Math Score Charter
     
 ###### How is the school summary affected?
 
-    ###### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? The replacement of 461 students in the dataset for Thomas High School was not significant to the overall dataset. It is considered a Charter school and one of the top schools for Overall Passing %. 
-    - 
-    ###### How does replacing the ninth-grade scores affect the following:
-        ###### Math and reading scores by grade
-        ###### Scores by school spending: 
-        ###### School spending was not affected when accounting for rounding. The dollars spent were still spend on the same students and one grade was not enough to change the dataset
-        ###### Scores by school Size:
-		Since Thomas High School was a medium sized school with an enrollment in the 1600s the only data that was affected was the minor decimal points as illustrated below. 
-		![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Charter%20School%20Analysis%20After.png)
-        ###### Scores by school type
+###### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? The replacement of 461 students in the dataset for Thomas High School was not significant to the overall dataset. It is considered a Charter school and one of the top schools for Overall Passing %. 
+  
+###### How does replacing the ninth-grade scores affect the following:
+###### Math and reading scores by grade
+###### Scores by school spending: 
+###### School spending was not affected when accounting for rounding. The dollars spent were still spend on the same students and one grade was not enough to change the dataset
+###### Scores by school Size:
+	Since Thomas High School was a medium sized school with an enrollment in the 1600s the only data that was affected was the minor decimal points as illustrated below. 
+![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/By%20School%20Size%20Before.png)
+![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/By%20School%20Size%20After.png)
+###### Scores by school type
 
 ## 4.  **Summary:**  Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 		The most significant statistical change to the data lies within the Thomas school data itself. This is where the largest deviation on averages stood, though in most cases it was not statitiscally significant to the untrained eye or average parent. 
+
+![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Thomas%20High%20School%20After%20Overall.png)
+
+![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Thomas%20High%20School%20Before%20Overall.png)
