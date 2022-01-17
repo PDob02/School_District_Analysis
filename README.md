@@ -35,6 +35,10 @@ Math Scores:
 ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Scores%20by%20Grade.png)
 ###### Scores by school spending:
 	School spending was not affected when accounting for rounding. The dollars spent were still spend on the same students and one grade was not enough to change the dataset
+Before:
+![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Spending%20Per%20Student%20Before.png)
+After:
+![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Spending%20Per%20Student%20After.png)
 ###### Scores by school Size:
 	Since Thomas High School was a medium sized school with an enrollment in the 1600s the only data that was affected was the minor decimal points as illustrated below. 
 ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/By%20School%20Size%20Before.png)
@@ -43,9 +47,8 @@ Math Scores:
 	Though not affected by the Thomas School, the largest gap in the data is the % Overall passing in Charter Schools (90%) vs. District Schools at (54%). 
 
 ## 4.  **Summary:**  Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-		The most significant statistical change to the data lies within the Thomas school data itself. This is where the largest deviation on averages stood, though in most cases it was not statitiscally significant to the untrained eye or average parent. 
-Their school's reading and math scores dipped slightly as well as their overall passing percentage. Also, all of the data for ninth graders will populate as NaN or "not a number" in reports now since there were some questions brought up by that school's school board. 
+The most significant statistical change to the data lies within the Thomas school data itself. This is where the largest deviation on averages stood, though in most cases it was not statitiscally significant to the untrained eye or average parent. Their school's reading and math scores dipped slightly as well as their overall passing percentage. Also, all of the data for ninth graders will populate as NaN or "not a number" in reports now since there were some questions brought up by that school's school board. 
 
 ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Thomas%20High%20School%20After%20Overall.png)
 ###### Before Analysis:
-    ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Thomas%20High%20School%20Before%20Overall.png)
+  ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Thomas%20High%20School%20Before%20Overall.png)
