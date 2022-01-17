@@ -28,7 +28,10 @@ Average Math Score Charter
   
 ###### How does replacing the ninth-grade scores affect the following:
 ###### Math and reading scores by grade:
-![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Thomas%20High%20School%20After%20Overall.png)
+Reading Scores:
+![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Reading%20Scores%20by%20Grade.png)
+Math Scores:
+![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Scores%20by%20Grade.png)
 ###### Scores by school spending:
 	School spending was not affected when accounting for rounding. The dollars spent were still spend on the same students and one grade was not enough to change the dataset
 ###### Scores by school Size:
