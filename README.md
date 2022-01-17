@@ -16,12 +16,12 @@ Thomas High School Challenge Analysis (redacted 9th grade):
 The district summary was not significantly affected by the removal of 461 student's scores. There are different numbers in the charter row but they are only slightly changed.
 Average Math Score Charter
 ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Charter%20School%20Analysis%20Before.png)
-
 ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Charter%20School%20Analysis%20After.png)
 
 Average Math Score Charter
 ![This is an image](https://github.com/PDob02/School_District_Analysis/blob/main/Resources/Charter%20School%20Analysis%20After.png)
-    ###### How is the school summary affected?
+    
+###### How is the school summary affected?
 
     ###### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? The replacement of 461 students in the dataset for Thomas High School was not significant to the overall dataset. It is considered a Charter school and one of the top schools for Overall Passing %. 
     - 
